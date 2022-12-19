@@ -1,0 +1,2 @@
+# QuadradoMagico
+Magic Square
