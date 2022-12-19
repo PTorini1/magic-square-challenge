@@ -1,5 +1,5 @@
 # QuadradoMagico
-An interesting challenge purposed in my System Development Course in SENAI.
+An interesting challenge purposed in my System Development Course at SENAI Manuel Garcia Filho.
 
 I had to make a Magic Square which is a square composed by 9 numbers and the sum of lines, columns and diagonals of this square will always be the same like in the picture below.
 
